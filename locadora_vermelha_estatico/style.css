@@ -1,0 +1,23 @@
+body
+{
+  background: black;
+  font-family: sans-serif;
+
+}
+
+h1
+{
+  color: red;
+  font-family: sans-serif;
+}
+
+h2
+{
+  font-family: sans-serif;
+  color: white;
+}
+
+img
+{
+  border: 1px solid white;
+}

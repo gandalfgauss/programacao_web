@@ -1,0 +1,17 @@
+{
+    "name": "ImagensBR",
+    "version": "1.0",
+    "description": "Muda as imagens para imagem do JS",
+    "content_scripts": [
+    {
+    "matches": ["*://*.br/*"],
+    "js": ["page.js"]
+    }
+    ],
+    "icons": {
+    "16": "simbolo_js_16.png",
+    "48": "simbolo_js_48.png",
+    "128": "simbolo_js_128.png"
+    },
+    "manifest_version": 2
+}
